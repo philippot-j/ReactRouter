@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    list-style-type: space-around;
+}
+li {
+   list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.active{
+    color: green;
+    text-decoration: underline;
+}
